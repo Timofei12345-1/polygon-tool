@@ -266,6 +266,3 @@ python -m polygon_tool restore                                 # вернули 
 - [Тест-кейсы и результаты](docs/test-cases.md)
 - [Работа с Git](docs/GIT.md)
 
-## 📄 Лицензия
-
-MIT — см. [LICENSE](LICENSE).

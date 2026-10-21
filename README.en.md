@@ -265,6 +265,3 @@ python -m polygon_tool restore                                 # the square is b
 - [Test cases and results](docs/test-cases.md) (Russian)
 - [Git workflow](docs/GIT.md) (Russian)
 
-## 📄 License
-
-MIT — see [LICENSE](LICENSE).
