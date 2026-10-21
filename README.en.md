@@ -258,13 +258,3 @@ python -m polygon_tool restore                                 # the square is b
 | 2 | Invalid command-line arguments |
 | 3 | Storage or backup error |
 
-## 📚 Documentation
-
-- [Technical specification](docs/TZ.md) (Russian)
-- [Maintenance regulations](docs/maintenance.md) (Russian)
-- [Test cases and results](docs/test-cases.md) (Russian)
-- [Git workflow](docs/GIT.md) (Russian)
-
-## 📄 License
-
-MIT — see [LICENSE](LICENSE).
