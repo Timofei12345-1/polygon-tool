@@ -15,14 +15,6 @@ Cartesian vertex coordinates, with input and output via console or file. The pro
 | Developer | Timofei Korolev |
 | Reviewer | Viktoriya Dmitrievna Shashkova |
 
-## 🎯 Assignment
-
-1. Create a Python console program that finds the perimeter and area of a complex polygon from the Cartesian
-   coordinates of its vertices (input/output via file and console).
-2. Design an algorithm for backing up and restoring map coordinate points.
-3. Write user documentation (technical specification, README in Russian and English, maintenance regulations)
-   and commit it together with the project to GitHub.
-4. Write test cases and verify that the key modules conform to the specification.
 
 ## 🛠️ Technologies
 
