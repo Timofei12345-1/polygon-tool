@@ -8,6 +8,13 @@ A Python command-line tool that computes the **perimeter and area of a complex p
 Cartesian vertex coordinates, with input and output via console or file. The project also includes a
 **backup and restore** subsystem for map coordinate points, user documentation and test cases.
 
+## ✍️ Authors
+
+| Role | Name |
+|---|---|
+| Developer | Timofei Korolev |
+| Reviewer | Viktoriya Dmitrievna Shashkova |
+
 ## 🎯 Assignment
 
 1. Create a Python console program that finds the perimeter and area of a complex polygon from the Cartesian
@@ -29,7 +36,7 @@ Cartesian vertex coordinates, with input and output via console or file. The pro
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/literaly980/polygon-tool.git
+git clone https://github.com/Timofei12345-1/polygon-tool.git
 cd polygon-tool
 ```
 
@@ -257,11 +264,3 @@ python -m polygon_tool restore                                 # the square is b
 | 1 | Data error (invalid input, file not found, invalid polygon) |
 | 2 | Invalid command-line arguments |
 | 3 | Storage or backup error |
-
-## 📚 Documentation
-
-- [Technical specification](docs/TZ.md) (Russian)
-- [Maintenance regulations](docs/maintenance.md) (Russian)
-- [Test cases and results](docs/test-cases.md) (Russian)
-- [Git workflow](docs/GIT.md) (Russian)
-

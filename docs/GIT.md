@@ -15,7 +15,7 @@ git commit -m "chore: initial project structure"
 Создайте на GitHub пустой репозиторий `polygon-tool` (без README и .gitignore), затем:
 
 ```bash
-git remote add origin https://github.com/literaly980/polygon-tool.git
+git remote add origin https://github.com/Timofei12345-1/polygon-tool.git
 git push -u origin main
 git switch -c develop
 git push -u origin develop
